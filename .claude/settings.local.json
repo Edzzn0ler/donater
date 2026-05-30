@@ -43,7 +43,9 @@
       "mcp__ai-game-developer__scene-save",
       "Bash(git -C /Users/edzjke/donater status)",
       "Bash(git -C /Users/edzjke/donater log --oneline)",
-      "Bash(git *)"
+      "Bash(git *)",
+      "Bash(gh auth *)",
+      "Bash(security find-internet-password *)"
     ]
   },
   "enableAllProjectMcpServers": true,
