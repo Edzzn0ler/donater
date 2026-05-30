@@ -30,3 +30,5 @@ Assembly-CSharp.csproj
 *.DS_Store
 .claude/
 donaterSilver/
+.mcp.json
+donaterSilver
