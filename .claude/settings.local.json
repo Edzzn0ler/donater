@@ -46,7 +46,8 @@
       "Bash(git *)",
       "Bash(gh auth *)",
       "Bash(security find-internet-password *)",
-      "Bash(grep -v \"m_Name: $\")"
+      "Bash(grep -v \"m_Name: $\")",
+      "Bash(xargs cat)"
     ]
   },
   "enableAllProjectMcpServers": true,
